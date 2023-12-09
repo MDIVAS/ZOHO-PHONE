@@ -37,6 +37,48 @@
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
+
+## CONCEPT PREVIEW 
+
+### ZOHO SMART ONE 
+
+
+
+https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/9209823d-388b-4785-b984-e7a37594dccd
+
+<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/141b9183-6ea5-4a05-b380-8c4c5dbd65e5" alt="Logo" width="270" height="480">
+
+<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/950bd932-65a2-4391-8556-fc533c3d06bd" alt="Logo" width="270" height="480">
+
+
+<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/199a4e84-561e-458f-affe-2437cdc80501" alt="Logo" width="270" height="480">
+
+
+
+
+
+
+### ZOHO SMART ONE+
+
+
+https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/4f8acf27-aeeb-421f-ba50-7f93719c1355
+
+
+<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/cd2666d4-1826-4cb8-a65e-a6041c502b25" alt="Logo" width="270" height="480">
+
+<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/06d568a1-5322-40ea-853c-17fd9a584987" alt="Logo" width="270" height="480">
+
+
+<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/9ed37c42-94b6-46f6-b84e-59fe9e000135" alt="Logo" width="270" height="480">
+
+
+
+
+
+
+
+
+
 ## About The Project
 
 ### 1. Personalized tweaked laptops for Zoho users
