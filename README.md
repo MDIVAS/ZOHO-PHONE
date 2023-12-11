@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MDIVAS/ZOHO-PHONE">
-    <img src="https://cdn.pixabay.com/animation/2022/11/30/19/48/19-48-34-65_512.gif" alt="Logo" width="640" height="480">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Mobile-Smartphone-icon.png" alt="Logo" width="360" height="360">
   </a>
 
   <h3 align="center">ZOHO PHONE</h3>
@@ -75,8 +75,10 @@ https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/4f8acf27-aeeb-421f-ba50-7f
 
 
 
+### ZOHO SMART ONE-
 
-
+<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/eea475f1-2e76-4bf6-8bb8-b4af621833b9" alt="Logo" width="270" height="480">
+<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/34d05c4b-789b-434d-b027-97f6c6169d2f alt="Logo" width="270" height="480">
 
 
 ## About The Project
