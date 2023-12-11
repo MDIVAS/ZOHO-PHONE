@@ -77,8 +77,8 @@ https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/4f8acf27-aeeb-421f-ba50-7f
 
 ### ZOHO SMART ONE-
 
-<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/eea475f1-2e76-4bf6-8bb8-b4af621833b9" alt="Logo" width="270" height="480">
-<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/34d05c4b-789b-434d-b027-97f6c6169d2f alt="Logo" width="270" height="480">
+<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/eea475f1-2e76-4bf6-8bb8-b4af621833b9" alt="Logo" width="600" height="800">
+<img src="https://github.com/MDIVAS/ZOHO-PHONE/assets/127883304/34d05c4b-789b-434d-b027-97f6c6169d2f" alt="Logo" width="600" height="800">
 
 
 ## About The Project
